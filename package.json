@@ -1,4 +1,6 @@
 {
+    "name": "vercel-laravel-10-starter",
+    "version": "0.1.0",
     "private": true,
     "type": "module",
     "scripts": {
