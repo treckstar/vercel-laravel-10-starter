@@ -1,4 +1,10 @@
-# Laravel Vercel
+# Vercel Laravel 10 Starter
+
+## Credit
+
+Majority of updates taken from pull request by [@cmizzi](https://github.com/cmizzi/vercel-examples)
+
+## Important Files
 
 This repository inherits from Laravel 10.x. Important files are the following ones:
 
