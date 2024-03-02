@@ -1,6 +1,11 @@
-# Vercel Laravel 10 Starter
+# Vercel Laravel 10 Starter (PHP 8.3)
 
 ## Credit
+
+<p align=center><strong>🏋️‍♀️ It works with these frameworks and tools. Discover more at <a href="https://github.com/juicyfx/vercel-examples">examples</a>.</strong></p>
+<p align=center>
+Made with  ❤️  by <a href="https://github.com/f3l1x">@f3l1x</a> (<a href="https://f3l1x.io">f3l1x.io</a>) • 🐦 <a href="https://twitter.com/xf3l1x">@xf3l1x</a>
+</p>
 
 Majority of updates taken from pull request by [@cmizzi](https://github.com/cmizzi/vercel-examples)
 
@@ -10,6 +15,16 @@ This repository inherits from Laravel 10.x. Important files are the following on
 
 - [`.vercelignore`](./.vercelignore)
 - [`.vercel.json`](./vercel.json)
+
+## 💯 Versions
+
+Change the version of `vercel-php` dependency in `.vercel.json` for the version you want to use.
+
+- `vercel-php@0.7.0` - Node 18.x / PHP 8.3.x (https://vercel-laravel-10-starter.sites.treckstar.net)
+- `vercel-php@0.6.1` - Node 18.x / PHP 8.2.x (https://example-php-8-2.vercel.app)
+- `vercel-php@0.5.4` - Node 18.x / PHP 8.1.x (https://example-php-8-1.vercel.app)
+- `vercel-php@0.4.3` - Node 18.x / PHP 8.0.x (https://example-php-8-0.vercel.app)
+- `vercel-php@0.3.5` - Node 18.x / PHP 7.4.x (https://example-php-7-4.vercel.app)
 
 ## Build assets
 
